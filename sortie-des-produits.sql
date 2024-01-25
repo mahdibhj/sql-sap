@@ -1,4 +1,4 @@
-USE [NUTRIOPER_PROD]
+USE [**SERVER-NAME**]
 GO
  
 /****** Object:  View [dbo].[products_out_tracking]    Script Date: 2023-09-12 16:21:54 ******/
