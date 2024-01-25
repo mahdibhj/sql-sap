@@ -1,4 +1,4 @@
---Requete utilisée comme base pour construire le rapport de facturations clients
+--Requete utilisée comme base pour construire le rapport de la facturation clients
 --L'utilisation des CTE fait en sorte que ma requete soit flexible et facilement ajustable au fil du temps
 --Lien pour le dictionnaire des tables
 --https://blogs.sap.com/2016/01/14/sap-business-one-tables/
