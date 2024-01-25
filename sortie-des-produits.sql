@@ -1,7 +1,10 @@
+--Développement d'une vue pour faire la traçabilité des ventes 
+--Dictionnaire des tables SAP : https://blogs.sap.com/2016/01/14/sap-business-one-tables/
+
 USE [**SERVER-NAME**]
 GO
  
-/****** Object:  View [dbo].[products_out_tracking]    Script Date: 2023-09-12 16:21:54 ******/
+/****** Object:  View [dbo].[products_out_tracking]    Script Date: 2023-11-12 16:21:54 ******/
 SET ANSI_NULLS ON
 GO
  
